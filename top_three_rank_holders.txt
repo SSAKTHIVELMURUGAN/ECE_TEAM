@@ -1,0 +1,5 @@
+Top Three Rank Holders:
+  Name  Age  CGPA     Location Gender
+Sophia   22   3.9 SanFrancisco Female
+   Ava   26   3.9       Boston Female
+Sophia   22   3.9 SanFrancisco Female
